@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phase1Part1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logo_content_description">B2B Mobile App DKAKU</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="login_to_register_screen">New to B2B ? Register Here</string>
+    <string name="register_to_login_screen">Already Registered ? Login Here</string>
+    <string name="login_to_forgot_screen">Forgot Your Password ?</string>
+    <string name="password_label">Password</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="email_user_label">Email Address / Username</string>
+    <string name="login_label">Login</string>
+    <string name="register_label">Register</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="fullname_label">Full Name</string>
+    <string name="account_type_label">Account Type</string>
+    <string name="state_label">State</string>
+    <string name="city_label">City</string>
+
+    <string-array name="account_type_array">
+        <item>Manufacturer</item>
+        <item>Wholesaler</item>
+        <item>Retailer</item>
+    </string-array>
+    <string-array name="states_array">
+        <item name="azadkashmir">Azad Kashmir</item>
+        <item name="kpk">Khyber Pakhtoon</item>
+        <item name="punjab">Punjab</item>
+        <item name="sindh">Sindh</item>
+        <item name="balochistan">Balochistan</item>
+        <item name="fata">Federal Tribal</item>
+    </string-array>
+    <string-array name="city_array">
+        <item>Bagh</item>
+        <item>Bhimber</item>
+        <item>Khuiratta</item>
+        <item>Kotli</item>
+        <item>Mangla</item>
+        <item>Muzaffarabad</item>
+        <item>Plandri</item>
+        <item>Rawalakot</item>
+        <item>Punch</item>
+        <item>Amir Chah</item>
+        <item>Bazdar</item>
+        <item>Bela</item>
+        <item>Bellpat</item>
+        <item>Burj</item>
+        <item>Chagai</item>
+        <item>Chah Sandan</item>
+        <item>Chakku</item>
+        <item>Chaman</item>
+        <item>Chhatr</item>
+        <item>Dalbandin</item>
+        <item>Dera Bugti</item>
+        <item>Dhana Sar</item>
+        <item>Diwana</item>
+        <item>Duki</item>
+        <item>Dushi</item>
+        <item>Duzab</item>
+        <item>Gajar</item>
+        <item>Gandava</item>
+        <item>Garhi Khairo</item>
+        <item>Garruck</item>
+        <item>Ghazluna</item>
+        <item>Girdan</item>
+        <item>Gulistan</item>
+        <item>Gwadar</item>
+        <item>Gwash</item>
+        <item>Hab Chauki</item>
+        <item>Hameedabad</item>
+        <item>Harnai</item>
+        <item>Hinglaj</item>
+        <item>Hoshab</item>
+        <item>Ispikan</item>
+        <item>Jhal</item>
+        <item>Jhal Jhao</item>
+        <item>Jhatpat</item>
+        <item>Jiwani</item>
+        <item>Kalandi</item>
+        <item>Kalat</item>
+        <item>Kamararod</item>
+        <item>Kanak</item>
+        <item>kandi</item>
+        <item>Kanpur</item>
+        <item>Kapip</item>
+        <item>Kappar</item>
+        <item>Katuri</item>
+        <item>Kharan</item>
+        <item>Khuzdar</item>
+        <item>Kikki</item>
+        <item>Kohan</item>
+        <item>Kohlu</item>
+        <item>Korak</item>
+        <item>Lahri</item>
+        <item>Lasbela</item>
+        <item>Liari</item>
+        <item>Loralai</item>
+        <item>Mach</item>
+        <item>Mand</item>
+        <item>Manguchar</item>
+        <item>Mashki Chah</item>
+        <item>Maslti</item>
+        <item>Mastung</item>
+        <item>Mekhtar</item>
+        <item>Merui</item>
+        <item>Mianez</item>
+        <item>Murgha Kibzai</item>
+    </string-array>
+
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    
+    <string-array name="listDrawerItems">
+        <item >About Us</item>
+        <item >Shop Franchise Registeration</item>
+        <item >Sales Agent Registeration</item>
+        <item >Mechanic Registeration</item>
+        <item >Contact Us</item>
+    </string-array>
+
+</resources>
